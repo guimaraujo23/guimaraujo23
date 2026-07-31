@@ -47,4 +47,4 @@
 </td>
 <td width="45%" align="center" valign="middle">
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJsMzcxNmJ4OW4yd2Fwcmc5Y2FnYzJqM2R2dnhkNjBlaHFvbXdjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="auto" style="border-radius: 12px;" alt="GIF do Perfil" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJsMzcxNmJ4OW4yd2Fwcmc5Y2FnYzJqM2R2dnhkNjBlaHFvbXdjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="500" style="border-radius: 12px;" alt="GIF do Perfil" />
