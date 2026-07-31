@@ -14,7 +14,7 @@
 
 <!-- SUBTÍTULO ANIMADO -->
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Jersey+10+Charted&weight=400&size=26&pause=1000&color=64748B&center=true&vCenter=true&width=700&height=50&lines=Estudante+de+Engenharia+de+Software;Rio+de+Janeiro+,+Brasil;As+coisas+mais+belas+do+mundo+n%C3%A3o+se+constroem+em+um+dia." alt="Subtítulo Animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Jersey+10+Charted&weight=400&size=30&pause=1000&color=64748B&center=true&vCenter=true&width=700&height=50&lines=Estudante+de+Engenharia+de+Software;Rio+de+Janeiro+,+Brasil;As+coisas+mais+belas+do+mundo+n%C3%A3o+se+constroem+em+um+dia." alt="Subtítulo Animado" />
 </div>
 
 </div>
