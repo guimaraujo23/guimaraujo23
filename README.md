@@ -34,7 +34,7 @@
 <a href="https://www.linkedin.com/in/guilherme-monteiro-de-araujo-94b398427" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
 </a>
-<a href="https://github.com/GMalzdev" target="_blank">
+<a href="https://github.com/GMaIzdev" target="_blank">
   <img src="https://skillicons.dev/icons?i=github&theme=dark" />
 </a>
 
