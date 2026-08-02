@@ -31,7 +31,7 @@
 
 ### 📫  𝓒𝓸𝓷𝓮𝓬𝓽𝓮-𝓼𝓮 𝓬𝓸𝓶𝓲𝓰𝓸
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/guilherme-monteiro-de-araujo-94b398427" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
 </a>
 <a href="https://github.com/GMalzdev" target="_blank">
