@@ -9,7 +9,7 @@
 
 <!-- NOME ANIMADO (CINZA #94A3B8) -->
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=10000&color=94A3B8&center=true&vCenter=true&width=700&height=50&lines=Ol%C3%A1%2C+Eu+sou+Guilherme+M+Araujo!" alt="Olá, Eu sou Guilherme M Araujo!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=10000&color=94A3B8&center=true&vCenter=true&width=700&height=50&lines=Ol%C3%A1%2C+Eu+sou+Guilherme+M+Araujo!" alt="Olá, Eu sou Guilherme M Araujo!" />
 </div>
 
 <!-- SUBTÍTULO ANIMADO -->
