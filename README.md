@@ -43,7 +43,7 @@
 
   </td>
     <td width="45%" align="center" valign="middle">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2MzaWR0MWd6OHA4dWNoNTJtZmZuZGN6a3N6NW05dGt0amV5MWc2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y4nk5bgwpWL6T5Ax9y/giphy.gif" width="100%" alt="GIF do Perfil" />
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3N1eXBjbXh6eDViZDJ4eDRsNTM0aG01ZHViM2F6bjMzZWNjczd4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LPFNd1AJBoYcVUExmE/giphy.gif" width="100%" alt="GIF do Perfil" />
     </td>
   </tr>
 </table>
