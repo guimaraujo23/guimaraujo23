@@ -21,7 +21,7 @@
 
 <br/>
 
-<!-- CARD COM BORDA AMARELA DESTAQUE COMPATÍVEL COM GITHUB -->
+<!-- CARD COM INFORMAÇÕES DE PERFIL -->
 <table border="1" bgcolor="#0d1117">
 <tr bgcolor="#0d1117">
 <td width="55%" valign="top">
@@ -34,7 +34,7 @@
 <a href="https://www.linkedin.com/in/guilherme-monteiro-de-araujo-94b398427" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
 </a>
-<a href="https://github.com/GMaIzdev" target="_blank">
+<a href="https://github.com/guimaraujo23" target="_blank">
   <img src="https://skillicons.dev/icons?i=github&theme=dark" />
 </a>
 
@@ -47,4 +47,52 @@
 </td>
 <td width="45%" align="center" valign="middle">
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJsMzcxNmJ4OW4yd2Fwcmc5Y2FnYzJqM2R2dnhkNjBlaHFvbXdjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="500" style="border-radius: 12px;" alt="GIF do Perfil" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NmExdnJsMzcxNmJ4OW4yd2Fwcmc5Y2FnYzJqM2R2dnhkNjBlaHFvbXdjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="500" style="border-radius: 12px;" alt="GIF do Perfil" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- SEÇÃO DE ESTATÍSTICAS (SUMMARY CARDS) -->
+<div align="center">
+
+<!-- SEÇÃO DE ESTATÍSTICAS LADO A LADO -->
+<div align="center">
+
+<!-- SEÇÃO DE ESTATÍSTICAS LADO A LADO COM URLS CUSTOMIZADAS -->
+<div align="center">
+
+ <!-- SEÇÃO DE ESTATÍSTICAS ALINHADAS -->
+<div align="center">
+
+  <h2>📊 𝑬𝒔𝒕𝒂𝒕í𝒔𝒕𝒊𝒄𝒂𝒔 𝒅𝒐 𝑮𝒊𝒕𝑯𝒖𝒃</h2>
+
+  <!-- Card Principal de Detalhes (Topo - 100% da largura) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guimaraujo23&theme=synthwave&animation=draw&duration=9&name=Guilherme+M+Araujo&title_color=ffae00&text_color=cccccc&bg_color=000000&border_color=000000&icon_color=fbff05&chart_color=ffdd00" width="100%" />
+  
+  <br/><br/>
+
+  <!-- Tabela com width 100% para esticar até as bordas exatas do card de cima -->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guimaraujo23&theme=synthwave&animation=draw&duration=9&title_color=ffae00&text_color=cccccc&bg_color=000000&border_color=000000&icon_color=fbff05&chart_color=ffdd00" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guimaraujo23&theme=synthwave&animation=draw&duration=9&title_color=ffae00&text_color=cccccc&bg_color=000000&border_color=000000&icon_color=fbff05&chart_color=ffdd00" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guimaraujo23&theme=synthwave&animation=draw&duration=9&title_color=ffae00&text_color=cccccc&bg_color=000000&border_color=000000&icon_color=fbff05&chart_color=ffdd00" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=guimaraujo23&theme=synthwave&animation=draw&duration=9&utcOffset=0&title_color=ffae00&text_color=cccccc&bg_color=000000&border_color=000000&icon_color=fbff05&chart_color=ffdd00" width="100%" />
+      </td>
+    </tr>
+  </table>
+
+</div>
+
