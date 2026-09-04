@@ -40,9 +40,10 @@
   <img src="https://skillicons.dev/icons?i=js,css,html,py,git,github,vscode&perline=7" />
 </a>
 
-    </td>
+
+  </td>
     <td width="45%" align="center" valign="middle">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NmExdnJsMzcxNmJ4OW4yd2Fwcmc5Y2FnYzJqM2R2dnhkNjBlaHFvbXdjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="100%" alt="GIF do Perfil" />
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2MzaWR0MWd6OHA4dWNoNTJtZmZuZGN6a3N6NW05dGt0amV5MWc2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y4nk5bgwpWL6T5Ax9y/giphy.gif" width="100%" alt="GIF do Perfil" />
     </td>
   </tr>
 </table>
