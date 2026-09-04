@@ -1,19 +1,15 @@
 <div align="center">
 
-  <!-- BANNER SUPERIOR -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2d3748&height=140&section=header" width="100%" />
 
-  <!-- SEJA BEM-VINDO -->
   <div align="center" width="100%">
     <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&pause=1000&color=475569&center=true&vCenter=true&width=700&height=40&lines=Seja+Bem-vindo+!!!" alt="Seja Bem-vindo!" />
   </div>
 
-  <!-- NOME ANIMADO -->
   <div align="center" width="100%">
     <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=10000&color=94A3B8&center=true&vCenter=true&width=700&height=50&lines=Ol%C3%A1%2C+Eu+sou+Guilherme+M+Araujo!" alt="Olá, Eu sou Guilherme M Araujo!" />
   </div>
 
-  <!-- SUBTÍTULO ANIMADO -->
   <div align="center" width="100%">
     <img src="https://readme-typing-svg.demolab.com?font=Jersey+10+Charted&weight=400&size=30&pause=1000&color=64748B&center=true&vCenter=true&width=700&height=50&lines=Estudante+de+Engenharia+de+Software;Rio+de+Janeiro+,+Brasil;As+coisas+mais+belas+do+mundo+n%C3%A3o+se+constroem+em+um+dia." alt="Subtítulo Animado" />
   </div>
@@ -22,9 +18,8 @@
 
 <br/>
 
-<!-- CARD COM INFORMAÇÕES DE PERFIL -->
-<table border="1" bgcolor="#0d1117" width="100%">
-  <tr bgcolor="#0d1117">
+<table width="100%">
+  <tr>
     <td width="55%" valign="top">
 
 ### 💬 𝑺𝒐𝒃𝒓𝒆 𝑴𝒊𝒎
@@ -47,24 +42,21 @@
 
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NmExdnJsMzcxNmJ4OW4yd2Fwcmc5Y2FnYzJqM2R2dnhkNjBlaHFvbXdjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="100%" style="border-radius: 12px;" alt="GIF do Perfil" />
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NmExdnJsMzcxNmJ4OW4yd2Fwcmc5Y2FnYzJqM2R2dnhkNjBlaHFvbXdjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="100%" alt="GIF do Perfil" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- SEÇÃO DE ESTATÍSTICAS ALINHADAS (SUMMARY CARDS) -->
 <div align="center">
 
   <h2>📊 𝑬𝒔𝒕𝒂𝒕í𝒔𝒕𝒊𝒄𝒂𝒔 𝒅𝒐 𝑮𝒊𝒕𝑯𝒖𝒃</h2>
 
-  <!-- Card Principal de Detalhes (Topo - 100% da largura) -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guimaraujo23&theme=synthwave&animation=draw&duration=9&name=Guilherme+M+Araujo&title_color=ffae00&text_color=cccccc&bg_color=000000&border_color=000000&icon_color=fbff05&chart_color=ffdd00&cache=false" width="100%" />
   
   <br/><br/>
 
-  <!-- Tabela com width 100% para alinhar os 4 cards de baixo ao de cima -->
   <table border="0" width="100%" cellspacing="0" cellpadding="0">
     <tr>
       <td width="50%" align="center">
